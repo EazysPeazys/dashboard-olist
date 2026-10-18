@@ -1,5 +1,9 @@
 # Dashboard Pelanggan E-Commerce Olist (Brasil) 🛒
 
+- Nama: Nabil Daffa Athalasyah
+- Email: athalasyahnabil@gmail.com
+- ID Dicoding: nabdaff95
+
 Proyek akhir kelas **Belajar Fundamental Analisis Data** (Dicoding - Asah led by Dicoding 2026).
 
 Analisis menggunakan **E-Commerce Public Dataset (Brazilian E-Commerce by Olist)**, file `olist_customers_dataset.csv`, untuk menjawab tiga pertanyaan bisnis periode 2016-2018:
