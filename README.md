@@ -5,7 +5,7 @@ Proyek akhir kelas **Belajar Fundamental Analisis Data** (Dicoding - Asah led by
 Analisis menggunakan **E-Commerce Public Dataset (Brazilian E-Commerce by Olist)**, file `olist_customers_dataset.csv`, untuk menjawab tiga pertanyaan bisnis periode 2016-2018:
 
 1. 5 state mana dengan pelanggan unik terbanyak dan berapa kontribusinya?
-2. 10 kota mana dengan pelanggan unik terbanyak dan berapa kontribusinya?
+2. 10 kota mana dengan pelanggan unik terbanyak, berapa jumlah pelanggan unik tiap kota, dan berapa kontribusinya?
 3. Berapa repeat rate tiap region dan region mana yang terendah?
 
 Analisis lanjutan: geospatial analysis (bubble map per state) dan clustering tanpa machine learning (manual grouping region + binning segmen pelanggan).
