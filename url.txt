@@ -1,2 +1,0 @@
-GANTI_DENGAN_LINK_STREAMLIT_CLOUD_ANDA
-Contoh: https://nama-app-anda.streamlit.app
